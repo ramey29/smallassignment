@@ -28,6 +28,8 @@ Since the data isnt consistent in many api response for job listing, the sorting
 
 Sorting is done on items that were searched based on location, experience, and/or skills
 
+Sorting is done for companyname, experience and expiry date which is calculated based (end date - curreunt date)
+
 So sorting is visible only after you search through jobs object
 
 For sorting experience, the drop down value of 10 years and more is upto 15years
